@@ -5,12 +5,18 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+## Providers
+
+| Provider | Model Default | Free Tier | Key |
+|----------|--------------|-----------|-----|
+| **Gemini** | `gemini-2.0-flash` | ✅ | `GEMINI_API_KEY` |
+| **Groq** | `llama3-70b-8192` | ✅ | `GROQ_API_KEY` |
+| **Qwen** | `qwen-turbo` | ✅ | `QWEN_API_KEY` |
+| **Ollama** | `llama3.2` | ✅ Local | — |
+| **Claude** | `claude-sonnet-4-20250514` | ❌ | `ANTHROPIC_API_KEY` |
+| **OpenAI** | `gpt-4o-mini` | ❌ | `OPENAI_API_KEY` |
+
+---
 
 ## Reporting a Vulnerability
 
