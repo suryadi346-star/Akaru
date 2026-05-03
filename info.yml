@@ -1,0 +1,13 @@
+# info.yml
+
+name: Akaru
+author: suryadi
+path: suryadi346-star/Akaru
+version: 1.0.0
+license: MIT
+description: >
+  Akaru is a multi-provider AI assistant supporting Gemini, Claude, Ollama,
+  OpenAI, Groq, and Qwen. Runs on Termux with voice and text interaction modes.
+
+contact:
+  website: https://github.com/suryadi346-star/Akaru
