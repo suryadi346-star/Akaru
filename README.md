@@ -91,6 +91,10 @@ python -m pytest tests/ -v
 ---
 
 ## Struktur Project
+<div align="center">
+<img src="https://raw.githubusercontent.com/suryadi346-star/Akaru/main/assets/logo.svg" 
+     alt="Akaru Logo" width="120" />
+</div>
 
 ```
 akaru/
@@ -122,4 +126,8 @@ akaru/
 
 MIT — [suryadi346-star](https://github.com/suryadi346-star)
 
+<div align=center">
+<img src="https://cdn.jsdelivr.net/gh/suryadi346-star/Akaru@main/assets/logo.svg" 
+     alt="Akaru Logo" width="120" />
+</div>
 # Akaru
