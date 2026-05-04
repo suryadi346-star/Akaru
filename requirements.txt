@@ -1,5 +1,5 @@
 # requirements.txt — Akaru dependencies
 
-aiohttp==3.13.4
+aiohttp==3.13.5
 python-dotenv==1.2.2
 PyYAML==6.0.2
